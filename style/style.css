@@ -1,5 +1,5 @@
 body {
-background-color : lightyellow;
+background-color : lightgreen;
 font-family : Bamini,Akshar,Arial;
 }
 
@@ -16,12 +16,7 @@ h1,h2,h3{
 	text-align : left;
 	padding : auto;
 }
-#container {
-	width : 1200px;
-	background-color : lightyellow;
-	margin-left: auto;
-	margin-right; auto;
-}
+
 #content {
 	 
 	width : 600px;
