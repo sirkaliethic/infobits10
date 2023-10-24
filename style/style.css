@@ -1,6 +1,6 @@
 body {
 background-color : lightyellow;
-font-family : Helvetica, Arial, san-serif,Times New Roman,Georgia;
+font-family : Bamini,Akshar,Arial;
 }
 
 h1,h2,h3{
@@ -35,7 +35,7 @@ h1,h2,h3{
  .navbar : a,{
     overflow: hidden;
     background-color: #33336;
-    font-family: Helvetica, Arial, san-serif,Times New Roman,Georgia;
+    font-family: Bamini,Akshar,Arial;
 }
 
  .navbar a {
