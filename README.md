@@ -1,0 +1,15 @@
+# infobits10
+
+Readme
+
+A collection of RSS News of concerned webites
+for eay reading at a glance.
+
+Espectially for Students.
+
+Enjoy.
+
+
+K.Ethiraj           sirkaliethic@gmail.com
+
+
