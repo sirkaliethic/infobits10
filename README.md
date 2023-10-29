@@ -3,7 +3,7 @@
 Readme
 
 A collection of RSS News of concerned webites
-for eay reading at a glance.
+for easy reading at a glance.
 
 Espectially for Students.
 
