@@ -12,19 +12,19 @@ h1,h2,h3{
 #header {
 	width : 1200px;
 	background-color: lightgreen;
-	color: black;
+	color: white;
 	text-align : left;
 	padding : auto;
 }
 #container {
 	width : 1200px;
-	background-color : lightyellow;
+	background-color : lightgreen;
 	margin-left: auto;
 	margin-right; auto;
 }
 #content {
 	 
-	width : 600px;
+	width : 800px;
 	float : left;
 	padding : 10px;
 }
@@ -34,14 +34,14 @@ h1,h2,h3{
 
  .navbar : a,{
     overflow: hidden;
-    background-color: #33336;
+    background-color: darkblue;
     font-family: Helvetica, Arial, san-serif,Times New Roman,Georgia;
 }
 
  .navbar a {
     float: left;
     font-size: 14px;
-    color: black;
+    color: white;
     text-align: center;
     padding: 12px, 14px;
     text-decoration: none;
@@ -51,7 +51,7 @@ h1,h2,h3{
 
  
  .navbar a:hover; {
-    background-color: darkgreen;
+    background-color: darkblue;
 }
 
 #main {
@@ -60,8 +60,8 @@ h1,h2,h3{
     float : left;
 }
 <style type="text/css">
-.container{
-position: relative;
+
+
 
 }
 
